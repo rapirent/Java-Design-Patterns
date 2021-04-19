@@ -1,0 +1,10 @@
+task clean {
+    subprojects.each {
+        it.afterEvaluate {
+            def cleanTask = it.tasks.findByName('clean')
+            if (cleanTask) {
+                dependsOn(cleanTask)
+            }
+        }
+    }
+}

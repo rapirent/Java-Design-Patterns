@@ -1,3 +1,5 @@
+package weatherStation;
+
 public class ForeCastDisplay implements Observer, DisplayElement {
     private float currentPressure;
     private float lastPressure;

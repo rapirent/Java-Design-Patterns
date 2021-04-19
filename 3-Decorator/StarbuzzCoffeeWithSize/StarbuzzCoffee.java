@@ -1,5 +1,5 @@
-package StarbuzzCoffeeWithSize;//we can't import from default package
-import StarbuzzCoffeeWithSize.Beverage.Size;
+package starbuzzCoffeeWithSize;
+import starbuzzCoffeeWithSize.Beverage.Size;
 public class StarbuzzCoffee {
     public static void main(String args[]) {
         Beverage beverage = new Espresso();

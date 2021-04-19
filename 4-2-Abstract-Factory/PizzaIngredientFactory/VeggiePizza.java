@@ -1,3 +1,4 @@
+package pizzaIngredientFactory;
 public class VeggiePizza extends Pizza {
     PizzaIngredientFactory ingredientFactory;
     public VeggiePizza(PizzaIngredientFactory ingredientFactory) {

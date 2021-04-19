@@ -1,5 +1,7 @@
+package duck;
+
 public class Squeak implements QuackBehavior {
-    public void quac(){
+    public void quack(){
         System.out.println("Squeak");
     }
 }

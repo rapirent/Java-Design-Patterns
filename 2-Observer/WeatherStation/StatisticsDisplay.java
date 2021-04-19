@@ -1,3 +1,5 @@
+package weatherStation;
+
 public class StatisticsDisplay implements Observer, DisplayElement {
     private float maxTemp;
     private float minTemp;

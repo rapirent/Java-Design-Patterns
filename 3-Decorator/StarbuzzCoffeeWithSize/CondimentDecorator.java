@@ -1,5 +1,5 @@
+package starbuzzCoffeeWithSize;
 //Decorator
-package StarbuzzCoffeeWithSize;
 public abstract class CondimentDecorator extends Beverage {
     public abstract String getDescription();
 }

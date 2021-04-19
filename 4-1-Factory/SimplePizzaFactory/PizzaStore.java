@@ -1,3 +1,4 @@
+package simplePizzaFactory;
 public class PizzaStore {
     SimplePizzaFactory factory;
     public PizzaStore(SimplePizzaFactory factory) {

@@ -1,3 +1,5 @@
+package character;
+
 public class Simulator{
     public static void main(String[] args) {
         Character king = new King();

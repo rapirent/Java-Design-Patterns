@@ -1,6 +1,6 @@
+package starbuzzCoffeeWithSize;
 // can use interface also
 // Component
-package StarbuzzCoffeeWithSize;
 public abstract class Beverage {
     protected String description;
     enum Size {TALL, GRANDE, VENTI};

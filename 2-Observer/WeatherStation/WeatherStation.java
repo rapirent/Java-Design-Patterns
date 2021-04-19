@@ -1,3 +1,5 @@
+package weatherStation;
+
 public class WeatherStation {
     public static void main(String[] args) {
         WeatherData wd = new WeatherData();

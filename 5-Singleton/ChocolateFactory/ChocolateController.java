@@ -1,3 +1,4 @@
+package chocolateFactory;
 public class ChocolateController {
     public static void main(String[] args) {
         Thread thread1 = new Thread(() -> {

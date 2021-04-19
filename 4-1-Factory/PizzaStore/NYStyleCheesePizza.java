@@ -1,3 +1,4 @@
+package pizzaStore;
 public class NYStyleCheesePizza extends Pizza {
     public NYStyleCheesePizza() {
         this.name = "NY Style Cheese Pizza";

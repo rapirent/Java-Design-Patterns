@@ -1,4 +1,4 @@
-package StarbuzzCoffeeWithSize;
+package starbuzzCoffeeWithSize;
 public class Milk extends CondimentDecorator {
     Beverage beverage;
     public Milk(Beverage beverage) {
