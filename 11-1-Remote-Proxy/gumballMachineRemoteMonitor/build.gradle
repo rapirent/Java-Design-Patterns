@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+    id 'java-library'
+}
+
+version = '15.0.1'
+
+jar.enabled = false
+
+sourceSets {
+   main {
+      java {
+          srcDir '.'
+      }
+   }
+}
+
+
