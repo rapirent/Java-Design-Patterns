@@ -1,7 +1,20 @@
 rootProject.name = "java-design-pattern"
 def list = [
     '1-Strategy',
+    '2-Observer',
+    '3-Decorator',
+    '4-1-Factory',
+    '4-2-Abstract-Factory',
+    '5-Singleton',
+    '6-Command',
+    '7-1-Adapter',
+    '7-2-Facade',
+    '8-Templete-Method',
+    '9-1-Iterator',
+    '9-2-Composite',
+    '10-State',
     '11-1-Remote-Proxy',
+    '11-2-Virtual-Proxy',
     '11-3-Protection-Proxy'
 ]
 list.each{

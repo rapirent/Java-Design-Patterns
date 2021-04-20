@@ -1,3 +1,5 @@
+package remoteControlWithUndo;
+
 public class GarageDoor {
     protected String location;
     public GarageDoor() {

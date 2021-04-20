@@ -1,3 +1,4 @@
+package caffeineBeverage;
 public abstract class CaffeineBeverageWithHook {
     public final void prepareRecipe() {
         boilWater();

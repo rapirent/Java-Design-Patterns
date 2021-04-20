@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class LightOffCommand implements Command {
     protected Light light;
     public LightOffCommand(Light light) {

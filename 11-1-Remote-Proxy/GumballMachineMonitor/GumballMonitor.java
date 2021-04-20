@@ -1,3 +1,4 @@
+package gumballMachineMonitor;
 public class GumballMonitor {
     protected GumballMachine machine = null;
 

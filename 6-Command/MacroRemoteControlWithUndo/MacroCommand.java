@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class MacroCommand implements Command {
     protected Command[] commands;
     public MacroCommand(Command[] commands) {

@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class CeilingFanOnCommand implements Command {
     protected CeilingFan ceilingFan;
     public CeilingFanOnCommand(CeilingFan ceilingFan) {

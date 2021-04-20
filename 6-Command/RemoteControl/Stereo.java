@@ -1,3 +1,4 @@
+package remoteControl;
 public class Stereo {
 	protected String location;
 

@@ -1,3 +1,4 @@
+package simpleRemoteControl;
 public class SimpleRemoteControl {
     protected Command slot;
     public SimpleRemoteControl() {

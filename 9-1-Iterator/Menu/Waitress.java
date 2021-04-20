@@ -1,3 +1,4 @@
+package menuWithIterator;
 import java.util.ArrayList;
 
 public class Waitress {

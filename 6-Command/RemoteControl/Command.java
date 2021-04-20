@@ -1,3 +1,4 @@
+package remoteControl;
 public interface Command {
     public void execute();
 }

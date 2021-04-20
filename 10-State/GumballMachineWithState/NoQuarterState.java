@@ -1,3 +1,4 @@
+package gumballMachineWithState;
 public class NoQuarterState implements State {
     protected GumballMachine gumballMachine = null;
     public NoQuarterState(GumballMachine gumballMachine) {

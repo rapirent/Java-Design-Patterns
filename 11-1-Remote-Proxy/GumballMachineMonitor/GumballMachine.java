@@ -1,3 +1,4 @@
+package gumballMachineMonitor;
 public class GumballMachine {
     protected String location = null;
     protected State soldOutState = null;

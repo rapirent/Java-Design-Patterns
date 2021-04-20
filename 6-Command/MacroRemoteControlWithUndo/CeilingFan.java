@@ -1,3 +1,5 @@
+package macroRemoteControlWithUndo;
+
 public class CeilingFan {
 	protected String location;
 

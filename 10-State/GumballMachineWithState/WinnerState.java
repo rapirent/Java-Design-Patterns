@@ -1,3 +1,4 @@
+package gumballMachineWithState;
 public class WinnerState implements State {
     protected GumballMachine gumballMachine = null;
     public WinnerState(GumballMachine gumballMachine) {

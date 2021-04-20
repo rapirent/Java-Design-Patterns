@@ -1,3 +1,4 @@
+package remoteControl;
 public class Light {
     protected String location;
     public Light(String location) {

@@ -1,3 +1,5 @@
+package remoteControlWithUndo;
+
 public class GarageDoorOpenCommand implements Command {
     protected GarageDoor gd;
     public GarageDoorOpenCommand(GarageDoor gd) {

@@ -1,3 +1,4 @@
+package simpleRemoteControl;
 public class RemoteControlTest {
     public static void main(String[] args) {
         SimpleRemoteControl src = new SimpleRemoteControl();

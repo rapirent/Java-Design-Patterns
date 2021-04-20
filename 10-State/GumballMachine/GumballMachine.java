@@ -1,3 +1,4 @@
+package GumballMachine;
 public class GumballMachine {
     final static int SOLD_OUT = 0;
     final static int NO_QUARTER = 1;

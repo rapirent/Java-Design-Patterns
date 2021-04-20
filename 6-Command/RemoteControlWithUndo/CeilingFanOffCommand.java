@@ -1,3 +1,4 @@
+package remoteControlWithUndo;
 public class CeilingFanOffCommand implements Command {
     protected CeilingFan ceilingFan;
     public CeilingFanOffCommand(CeilingFan ceilingFan) {

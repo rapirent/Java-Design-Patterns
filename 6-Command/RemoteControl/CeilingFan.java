@@ -1,3 +1,4 @@
+package remoteControl;
 public class CeilingFan {
 	protected String location;
 

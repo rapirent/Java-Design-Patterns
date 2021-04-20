@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class StereoOffCommand implements Command {
     protected Stereo stereo;
     public StereoOffCommand(Stereo stereo) {

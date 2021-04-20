@@ -1,8 +1,9 @@
+package menuComponentWithJavaIterator;
 import java.util.Iterator;
 
 public class NullIterator implements Iterator<MenuComponent> {
 
-    public Object next() {
+    public MenuComponent next() {
         return null;
     }
 

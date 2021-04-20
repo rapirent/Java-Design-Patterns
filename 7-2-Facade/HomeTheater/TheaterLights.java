@@ -1,3 +1,4 @@
+package homeTheater;
 public class TheaterLights {
     protected String description;
     protected int level;

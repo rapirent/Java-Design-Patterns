@@ -1,3 +1,4 @@
+package gumballMachineWithState;
 public class GumballMachine {
     protected State soldOutState = null;
     protected State noQuarterState = null;

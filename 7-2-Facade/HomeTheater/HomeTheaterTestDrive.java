@@ -1,3 +1,4 @@
+package homeTheater;
 public class HomeTheaterTestDrive {
     public static void main(String[] args) {
 		Amplifier amp = new Amplifier("Top-O-Line");

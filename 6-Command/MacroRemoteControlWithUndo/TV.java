@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class TV {
 	protected String location;
 

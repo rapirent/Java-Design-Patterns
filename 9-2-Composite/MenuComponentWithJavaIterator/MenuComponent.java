@@ -1,3 +1,4 @@
+package menuComponentWithJavaIterator;
 import java.util.Iterator;
 
 public abstract class MenuComponent {

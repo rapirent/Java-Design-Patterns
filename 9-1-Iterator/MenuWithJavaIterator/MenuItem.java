@@ -1,3 +1,4 @@
+package menuWithJavaIterator;
 public class MenuItem {
     protected String name;
     protected String description;

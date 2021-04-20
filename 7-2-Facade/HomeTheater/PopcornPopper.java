@@ -1,3 +1,4 @@
+package homeTheater;
 public class PopcornPopper {
     protected String description;
     public PopcornPopper(String description) {

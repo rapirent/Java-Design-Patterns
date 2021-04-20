@@ -1,3 +1,4 @@
+package gumballMachineWithState;
 public interface State {
     public void insertQuarter();
     public void ejectQuarter();

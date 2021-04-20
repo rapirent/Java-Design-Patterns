@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class Stereo {
 	protected String location;
 

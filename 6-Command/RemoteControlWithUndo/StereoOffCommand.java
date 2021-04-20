@@ -1,3 +1,5 @@
+package remoteControlWithUndo;
+
 public class StereoOffCommand implements Command {
     protected Stereo stereo;
     public StereoOffCommand(Stereo stereo) {

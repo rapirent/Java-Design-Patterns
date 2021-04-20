@@ -1,3 +1,4 @@
+package cafeMenuWithJavaIterator;
 public class MenuItem {
     protected String name;
     protected String description;

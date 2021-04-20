@@ -1,3 +1,5 @@
+package remoteControlWithUndo;
+
 public class Stereo {
 	protected String location;
 

@@ -1,3 +1,4 @@
+package homeTheater;
 public class Amplifier {
     protected String description;
     protected DvdPlayer dvd;

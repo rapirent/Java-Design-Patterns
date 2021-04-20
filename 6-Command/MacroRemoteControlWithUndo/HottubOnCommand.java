@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class HottubOnCommand implements Command {
     protected Hottub hottub;
     public HottubOnCommand(Hottub hottub) {

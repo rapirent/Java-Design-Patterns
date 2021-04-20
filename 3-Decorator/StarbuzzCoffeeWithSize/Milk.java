@@ -16,5 +16,6 @@ public class Milk extends CondimentDecorator {
         } else {
             cost += .20;
         }
+        return cost;
     }
 }

@@ -1,3 +1,4 @@
+package remoteControl;
 public class RemoteControl {
     protected Command[] onCommands = null;
     protected Command[] offCommands = null;
@@ -33,7 +34,6 @@ public class RemoteControl {
                 offCommands[i].getClass().getName() + "\n"
             );
 		}
-        string.append("[undo]" + undoCommand.getClass().getName() + "\n");
 		return string.toString();
 	}
 }

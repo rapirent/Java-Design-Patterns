@@ -1,3 +1,4 @@
+package gumballMachineWithState;
 import java.util.Random;
 
 public class HasQuarterState implements State {

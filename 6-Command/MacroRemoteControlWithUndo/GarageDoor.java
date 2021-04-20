@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class GarageDoor {
     protected String location;
     public GarageDoor() {

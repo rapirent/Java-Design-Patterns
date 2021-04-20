@@ -1,3 +1,4 @@
+package macroRemoteControlWithUndo;
 public class GarageDoorCloseCommand implements Command {
     protected GarageDoor gd;
     public GarageDoorCloseCommand(GarageDoor gd) {

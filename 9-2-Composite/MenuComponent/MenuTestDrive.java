@@ -1,3 +1,4 @@
+package menuComponent;
 public class MenuTestDrive {
     public static void main(String args[]) {
         MenuComponent pancakeHouseMenu = new Menu("Pancake House Menu", "Breakfast");

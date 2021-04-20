@@ -1,3 +1,4 @@
+package duckSort;
 public class Duck implements Comparable<Duck> {
     protected String name;
     protected int weight;

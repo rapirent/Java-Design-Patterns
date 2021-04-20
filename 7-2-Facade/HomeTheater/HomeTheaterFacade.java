@@ -1,3 +1,4 @@
+package homeTheater;
 public class HomeTheaterFacade {
     protected Amplifier amp;
     protected DvdPlayer dvd;

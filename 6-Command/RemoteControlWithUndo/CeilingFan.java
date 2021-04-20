@@ -1,3 +1,4 @@
+package remoteControlWithUndo;
 public class CeilingFan {
 	protected String location;
 

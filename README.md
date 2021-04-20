@@ -11,6 +11,7 @@
 
 ```sh
 gradle build
+gradle clean
 ```
 
 # Contribute

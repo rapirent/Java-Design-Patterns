@@ -1,3 +1,4 @@
+package homeTheater;
 public class Projector {
     protected String description;
     public Projector(String description) {

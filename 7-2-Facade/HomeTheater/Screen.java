@@ -1,3 +1,4 @@
+package homeTheater;
 public class Screen {
     protected String description;
     public Screen(String description) {

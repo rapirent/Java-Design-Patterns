@@ -1,3 +1,4 @@
+package duckSort;
 import java.util.Arrays;
 public class DuckSortTestDrive {
     public static void main(String[] args) {
