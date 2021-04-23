@@ -15,7 +15,8 @@ def list = [
     '10-State',
     '11-1-Remote-Proxy',
     '11-2-Virtual-Proxy',
-    '11-3-Protection-Proxy'
+    '11-3-Protection-Proxy',
+    '12-Compound'
 ]
 list.each{
     file(it).eachDir { dir ->
