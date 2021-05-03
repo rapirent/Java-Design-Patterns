@@ -497,14 +497,6 @@ public class Client {
 
 import java.util.ArrayList;
 
-public class Traverser {
-
-}
-
-public class Visitor {
-
-}
-
 public class Menu {
     protected ArrayList<MenuComponent> menuComponents = new ArrayList<MenuComponent>();
     public void getState(Visitor v) {
